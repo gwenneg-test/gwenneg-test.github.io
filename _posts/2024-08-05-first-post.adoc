@@ -1,4 +1,4 @@
-= First post
+= First post (updated)
 :imagesdir: /assets/images/posts/first-post
 :page-excerpt: This is the very first post of this blog!
 :page-tags: [asciidoc, demo]
